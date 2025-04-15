@@ -1,7 +1,7 @@
 # Lincos-releases
 Released binaries for the Lincos Astrology Software project
 
-# Lincos installer
+# LINCOS installer
 
 Welcome! This repository contains **downloadable releases** of LINCOS, a Windows application built as a companion to the [Syntax of Astrology](https://tinyurl.com/SyntaxOfAstrology) course, offered by [LINCOS Astrology](https://www.lincosastrology.com/).
 
